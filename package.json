@@ -1,0 +1,25 @@
+{
+  "name": "advicedNodeProject1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apikey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabelogumede/advicedNodeProject1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabelogumede/advicedNodeProject1/issues"
+  },
+  "homepage": "https://github.com/sabelogumede/advicedNodeProject1#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.3"
+  }
+}
