@@ -3,7 +3,7 @@ Schema = mongoose.Schema;
 
 let UserSchema = new Schema({
     username: {
-        type: string,
+        type: String,
         required: true
     },
     password: {
